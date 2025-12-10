@@ -45,7 +45,7 @@ Models focusing on specific sectors or industries within the economy.
 
 | Model Code | Model Name | Category | Description |
 |------------|------------|----------|-------------|
-| *To be populated* | | | |
+| *To be populated* | *To be populated* | *To be populated* | *To be populated* |
 
 ## 🚀 Getting Started
 
